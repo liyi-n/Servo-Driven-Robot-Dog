@@ -1,0 +1,27 @@
+# STM32CubeIDE Project Files
+.mxproject
+.cproject
+.project
+.settings/
+
+# Build Output
+Debug/
+Release/
+
+# Object Files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Temporary Files
+*.swp
+*.swo
+*~
+
+# IDE Specific Files
+.DS_Store
+Thumbs.db
