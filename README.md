@@ -56,6 +56,10 @@
 |-----|------|------|
 | PC13 | OUT | 状态LED |
 
+https://github.com/user-attachments/assets/179f74cc-7403-4712-9e77-ed52dfadfccc
+
+
+
 ### 参考资料
 【曼波机器狗手把手教程来了！】 https://www.bilibili.com/video/BV1TZWBzhEFv/?share_source=copy_web&vd_source=b369e2d421df47243943c3876c2ba6ee  
 波特律动取模：https://led.baud-dance.com/
